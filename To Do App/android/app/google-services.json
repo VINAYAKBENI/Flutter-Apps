@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "593071087238",
+    "project_id": "to-do-app-5c41c",
+    "storage_bucket": "to-do-app-5c41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593071087238:android:35f4606491fc6075137b07",
+        "android_client_info": {
+          "package_name": "com.beni.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593071087238-q4qk1m9lj1bbe32cgt987uv1ms4d9q6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beni.todo",
+            "certificate_hash": "e99db21dffaf924111f5ca8769d1c498204d8f52"
+          }
+        },
+        {
+          "client_id": "593071087238-9s1tsrfqronnnvlvuur2h2vvsgeh0iec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXVhrQmnftYYj2Wc83AqgoXJnIOBFzJzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593071087238-9s1tsrfqronnnvlvuur2h2vvsgeh0iec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

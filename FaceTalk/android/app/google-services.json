@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "638046924933",
+    "project_id": "zoom-replica-f6f19",
+    "storage_bucket": "zoom-replica-f6f19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638046924933:android:1040e047e000695d76f9ec",
+        "android_client_info": {
+          "package_name": "com.Beni.FaceTalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638046924933-j5r5l5bmbq2tj2k62qhdou0pnso3uu0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Beni.FaceTalk",
+            "certificate_hash": "1d84c18ccc28cfda08e9bc8e71ce35f22a34548e"
+          }
+        },
+        {
+          "client_id": "638046924933-apooi81rt77jrda5gtban7skhr071f61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhOeXqvHjfmmGRfeTCkZaeqGRLU4Wb9V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638046924933-apooi81rt77jrda5gtban7skhr071f61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
